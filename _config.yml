@@ -27,7 +27,7 @@ author:
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : # ""
+  googlescholar    : "https://scholar.google.com/citations?user=gBJJSzUAAAAJ"
   email            : "lijuan18@zju.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Juan-Li-33/research"
   uri              :
@@ -65,8 +65,6 @@ include:
   - _pages
   - files
 exclude:
-  - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -91,6 +89,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - google_scholar_crawler
+  - github_myprofile_updater
 keep_files:
   - .git
   - .svn

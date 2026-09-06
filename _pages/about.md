@@ -47,6 +47,6 @@ Hi, I'm Juan. My research interest includes knowledge graphs, and LLMs.
 - Wen Zhang, **Juan Li**, Huajun Chen. ProjR: Embedding Structure Diversity for Knowledge Graph Completion. NLPCC 2018 (CCF C)
 
 # 📖 Educations & Work Experience
-- *2024.06 - 2026.06*, xx, Software, Zhejiang University 
+- *2024.06 - 2026.06*, Postdoc, School of Software Technology, Zhejiang University.
 - *2016.09 - 2024.03*, PhD, College of Computer Science and Technology, Zhejiang University. 
 - *2012.09 - 2016.06*, Undergraduate, Hunan Normal University. 
